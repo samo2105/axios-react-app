@@ -1,0 +1,43 @@
+.FullPost {
+    width: 70%;
+    height: auto;
+    text-align: center;
+    margin: 20px auto;
+    color: green;
+    background-color: #61dafb;
+}
+
+.Delete {
+    background-color: lightcoral;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 10px
+}
+
+.FullPost p {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.FullPost h1 {
+    background-color: blue;
+    padding: 10px;
+    color: white
+}
+
+.FullPost button:hover {
+    background-color: red;
+}
+
+
+.SelectPost {
+    text-align: center;
+    width: 60%;
+    margin: 10px auto;
+    height: auto;
+}
+

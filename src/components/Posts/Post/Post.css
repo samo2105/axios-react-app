@@ -1,0 +1,23 @@
+.Post {
+    border: 1px solid green;
+    background-color: lightgreen;
+    font-weight: bold;
+    height: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    margin: 16px auto;
+}
+
+.Post h1 {
+    background-color: white;
+    font-weight: bold;
+    color: green;
+}
+
+.Post p {
+    font-weight: bold;
+    margin: 15px;
+    background-color: white;
+}
+

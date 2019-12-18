@@ -1,0 +1,25 @@
+.NewPost {
+    width: 60%;
+    text-align: center;
+    height: auto;
+    margin: 15px auto;
+    flex-flow: column;
+    border: 1px solid black;
+    padding: 20px
+}
+
+.NewPost label {
+    font-weight: bold;
+    background-color: lightgray;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px
+}
+
+.NewPost button {
+    padding: 20px;
+    font-weight: bold;
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+}
